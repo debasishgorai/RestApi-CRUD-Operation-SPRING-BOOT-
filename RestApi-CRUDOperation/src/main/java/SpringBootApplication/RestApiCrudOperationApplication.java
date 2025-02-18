@@ -8,6 +8,7 @@ public class RestApiCrudOperationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiCrudOperationApplication.class, args);
+		
 	}
 
 }
